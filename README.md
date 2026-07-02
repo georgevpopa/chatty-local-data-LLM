@@ -204,3 +204,11 @@ python -m app.indexer        # step 3: index into ChromaDB
 ## 🤝 Contributing
 
 This started as a personal productivity tool for a network/IT ops team. If you're in a similar situation and want to adapt it — PRs welcome.
+
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=georgevpopa/chatty-local-data-LLM&type=Date)](https://star-history.com/#georgevpopa/chatty-local-data-LLM&Date)
+
